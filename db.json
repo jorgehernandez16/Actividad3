@@ -1,0 +1,11 @@
+{
+    "posts":[
+        {"id": 200, "titulo": "Hola", "cuerpo": "Me he sentido muy solo"}
+    ],
+    "comentarios":[
+        {"id":2001, "id_post":200, "titulo": "Hola", "cuerpo": "Cuentanos, ¿que pasa?"}
+    ],
+    "deteccion":[
+        {"emocion":"tristesa", "recomendacion":"Salir a pasear con amigos"}
+    ]
+}
